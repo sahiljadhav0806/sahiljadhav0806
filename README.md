@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sahiljadhav0806
-- 👀 I’m interested in Android App Developing and Data Science
-- 🌱 I’m currently learning Android App Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in AI and Data Science
+- 🌱 I’m currently learning Artificial Intelligence 
+- 📫 You can reach me on sahiljadhav8888@gmail.com.
 
 <!---
 sahiljadhav0806/sahiljadhav0806 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

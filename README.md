@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahiljadhav0806
-- 👀 I’m interested in AI and Data Science
-- 🌱 I’m currently learning Artificial Intelligence 
+- 👀 Web Developer 
+- 🌱 Full Stack Development ||  Mern Stack
 - 📫 You can reach me on sahiljadhav8888@gmail.com.
 
 <!---

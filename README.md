@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahiljadhav0806
-- 👀 Web Developer 
-- 🌱 Full Stack Development ||  Mern Stack
+- 👀 Software Developer 
+- 🌱 Machine Learning || AIML || Full Stack Development 
 - 📫 You can reach me on sahiljadhav8888@gmail.com.
 
 <!---
